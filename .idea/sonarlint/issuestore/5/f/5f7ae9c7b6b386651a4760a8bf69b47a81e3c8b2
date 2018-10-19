@@ -1,0 +1,10 @@
+
+dsquid:UselessImportCheck"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8¦˜·Øå,
+Zsquid:S3972 "7Move this "if" to a new line or add the missing "else".(Ä½„ñýÿÿÿÿ8ŒèÚõç,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù¥öóþÿÿÿÿ8ôñ¯õç,
+`squid:S1854"BRemove this useless assignment to local variable "previsoesTempo".(é§á•8›Ö°õç,
+[squid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8þ‘æÓå,
+Zsquid:UselessImportCheck
+"/Remove this unused import 'java.util.Calendar'.(ÿÛö´8ä²…Öå,
+?squid:S1643"Use a StringBuilder instead.(ÉÁÞŽþÿÿÿÿ8äª©õç,
+_squid:UselessImportCheck"4Remove this unused import 'br.com.objs.GuardaChuva'.(»ø£Á8ê§ öç,

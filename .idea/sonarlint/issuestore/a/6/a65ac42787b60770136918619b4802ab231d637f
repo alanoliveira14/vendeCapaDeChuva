@@ -1,0 +1,8 @@
+
+V"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ìúÇV8‘Ÿàôç,
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(·ûí°ûÿÿÿÿ8ô”Ğôç,
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Õ÷Éôç,
+dsquid:UselessImportCheck"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8Õ÷Éôç,
+nsquid:S1192"KDefine a constant instead of duplicating this literal "Ensolarado" 3 times.(âÆó·ûÿÿÿÿ8Ö¢Œõç,
+Vsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8àêïÕå,
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Ÿ®«Ôå,
