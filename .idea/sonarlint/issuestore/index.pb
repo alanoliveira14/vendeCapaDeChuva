@@ -11,3 +11,7 @@ P
  src/br/com/objs/GuardaChuva.java,f/4/f446a6eae628b44627edc3014dd146684643e5d9
 R
 "src/br/com/objs/ObjetoVendido.java,4/d/4ddf716ed67f36145ff5c1108c09e478c62787cd
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+H
+vendeCapaGuardaChuva.iml,6/a/6a30087c6ff6bd822f4edee45ec5bf73339df1ba
